@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 749759c1c6c67524d959946a71f9a7f0
+timeCreated: 1462908212
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Complete 0
+    100004: Complete 00
+    100006: Highlight 0 double
+    100008: Highlight 0 single
+    100010: Highlight 00 double
+    100012: Highlight 1 to 18
+    100014: Highlight 19 to 36
+    100016: Highlight 1st Column
+    100018: Highlight 1st Dozen
+    100020: Highlight 2nd Dozen
+    100022: Highlight 3rd Column
+    100024: Highlight 3rd Dozen
+    100026: Highlight Numbers
+    100028: Highlight others
+    100030: Older Highlight 0 double
+    100032: Older Highlight 00 double
+    100034: Older Profile 00
+    100036: Texts
+    400000: //RootNode
+    400002: Complete 0
+    400004: Complete 00
+    400006: Highlight 0 double
+    400008: Highlight 0 single
+    400010: Highlight 00 double
+    400012: Highlight 1 to 18
+    400014: Highlight 19 to 36
+    400016: Highlight 1st Column
+    400018: Highlight 1st Dozen
+    400020: Highlight 2nd Dozen
+    400022: Highlight 3rd Column
+    400024: Highlight 3rd Dozen
+    400026: Highlight Numbers
+    400028: Highlight others
+    400030: Older Highlight 0 double
+    400032: Older Highlight 00 double
+    400034: Older Profile 00
+    400036: Texts
+    2300000: //RootNode
+    2300002: Complete 0
+    2300004: Complete 00
+    2300006: Highlight 0 double
+    2300008: Highlight 0 single
+    2300010: Highlight 00 double
+    2300012: Highlight 1 to 18
+    2300014: Highlight 19 to 36
+    2300016: Highlight 1st Column
+    2300018: Highlight 1st Dozen
+    2300020: Highlight 2nd Dozen
+    2300022: Highlight 3rd Column
+    2300024: Highlight 3rd Dozen
+    2300026: Highlight Numbers
+    2300028: Highlight others
+    2300030: Older Highlight 0 double
+    2300032: Older Highlight 00 double
+    2300034: Older Profile 00
+    2300036: Texts
+    3300000: //RootNode
+    3300002: Complete 0
+    3300004: Complete 00
+    3300006: Highlight 0 double
+    3300008: Highlight 0 single
+    3300010: Highlight 00 double
+    3300012: Highlight 1 to 18
+    3300014: Highlight 19 to 36
+    3300016: Highlight 1st Column
+    3300018: Highlight 1st Dozen
+    3300020: Highlight 2nd Dozen
+    3300022: Highlight 3rd Column
+    3300024: Highlight 3rd Dozen
+    3300026: Highlight Numbers
+    3300028: Highlight others
+    3300030: Older Highlight 0 double
+    3300032: Older Highlight 00 double
+    3300034: Older Profile 00
+    3300036: Texts
+    4300000: Complete 0
+    4300002: Highlight 0 single
+    4300004: Highlight 00 double
+    4300006: Highlight 0 double
+    4300008: Highlight 3rd Column
+    4300010: Highlight 1st Column
+    4300012: Highlight 19 to 36
+    4300014: Highlight 3rd Dozen
+    4300016: Highlight 1st Dozen
+    4300018: Highlight 1 to 18
+    4300020: Highlight 2nd Dozen
+    4300022: Complete 00
+    4300024: Highlight Numbers
+    4300026: Highlight others
+    4300028: Texts
+    4300030: Older Profile 00
+    4300032: Older Highlight 00 double
+    4300034: Older Highlight 0 double
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

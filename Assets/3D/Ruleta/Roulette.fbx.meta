@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 7cb87740630b97349a494540bfe83b4a
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bolita
+    100002: Bolita_anima
+    100004: Bolita_origin_position
+    100006: //RootNode
+    100008: ruleta_fija
+    100010: ruleta_giratoria
+    100012: ruleta_giratoria_MeshPart0
+    100014: ruleta_giratoria_MeshPart1
+    100016: ruleta_giratoria_separadores_37
+    100018: ruleta_giratoria_separadores_37_MeshPart0
+    100020: ruleta_giratoria_separadores_37_MeshPart1
+    100022: ruleta_giratoria_separadores_38
+    100024: ruleta_giratoria_separadores_38_MeshPart0
+    100026: ruleta_giratoria_separadores_38_MeshPart1
+    400000: Bolita
+    400002: Bolita_anima
+    400004: Bolita_origin_position
+    400006: //RootNode
+    400008: ruleta_fija
+    400010: ruleta_giratoria
+    400012: ruleta_giratoria_MeshPart0
+    400014: ruleta_giratoria_MeshPart1
+    400016: ruleta_giratoria_separadores_37
+    400018: ruleta_giratoria_separadores_37_MeshPart0
+    400020: ruleta_giratoria_separadores_37_MeshPart1
+    400022: ruleta_giratoria_separadores_38
+    400024: ruleta_giratoria_separadores_38_MeshPart0
+    400026: ruleta_giratoria_separadores_38_MeshPart1
+    2300000: Bolita
+    2300002: ruleta_fija
+    2300004: ruleta_giratoria_MeshPart0
+    2300006: ruleta_giratoria_MeshPart1
+    2300008: ruleta_giratoria_separadores_37_MeshPart0
+    2300010: ruleta_giratoria_separadores_37_MeshPart1
+    2300012: ruleta_giratoria_separadores_38_MeshPart0
+    2300014: ruleta_giratoria_separadores_38_MeshPart1
+    2300016: ruleta_giratoria
+    2300018: ruleta_giratoria_separadores_37
+    2300020: ruleta_giratoria_separadores_38
+    3300000: Bolita
+    3300002: ruleta_fija
+    3300004: ruleta_giratoria_MeshPart0
+    3300006: ruleta_giratoria_MeshPart1
+    3300008: ruleta_giratoria_separadores_37_MeshPart0
+    3300010: ruleta_giratoria_separadores_37_MeshPart1
+    3300012: ruleta_giratoria_separadores_38_MeshPart0
+    3300014: ruleta_giratoria_separadores_38_MeshPart1
+    3300016: ruleta_giratoria
+    3300018: ruleta_giratoria_separadores_37
+    3300020: ruleta_giratoria_separadores_38
+    4300000: Bolita
+    4300002: ruleta_fija
+    4300004: ruleta_giratoria_MeshPart0
+    4300006: ruleta_giratoria_MeshPart1
+    4300008: ruleta_giratoria_separadores_38_MeshPart0
+    4300010: ruleta_giratoria_separadores_38_MeshPart1
+    4300012: ruleta_giratoria_separadores_37_MeshPart0
+    4300014: ruleta_giratoria_separadores_37_MeshPart1
+    4300016: ruleta_giratoria
+    4300018: ruleta_giratoria_separadores_38
+    4300020: ruleta_giratoria_separadores_37
+    11100000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bolita_mtl
+    second: {fileID: 2100000, guid: 200d57a444f68cb4fb31250d2d8ee388, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ruleta_fija_mtl
+    second: {fileID: 2100000, guid: 84d998df68f26ca449def94d455317d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ruleta_giratoria_mtl
+    second: {fileID: 2100000, guid: 18aad66324e0f0244962a4eb63414a4c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

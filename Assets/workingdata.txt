@@ -1,0 +1,66 @@
+delay
+0
+credits
+10000000
+time
+0
+maxBet
+6500000
+maxBetType
+5000000
+doubleZero
+False
+random
+False
+chipValues
+10,25,50,100
+Attract loop delay
+60
+Tooltip Duration
+5
+URL Monedero
+127.0.0.1
+Port Monedero
+12288
+Comms Time Out
+50
+5
+Maximum Retries
+30
+3
+Credits Ping Delay
+5
+Maximum chips per pile
+15
+Posicion Horizontal Ventana
+0
+Posicion Vertical Ventana
+0
+Ancho Ventana
+1770
+Altura Ventana
+1080
+Cambio de tamaño habilitado (si / no)
+si
+Posicion Horizontal Ventana Minimizada
+390
+Posicion Vertical Ventana Minimizada
+116
+Ancho Ventana Minimizada
+1385
+Altura Ventana Minimizada
+848
+Posicion Horizontal Ventana Maximizada
+0
+Posicion Vertical Ventana Maximizada
+0
+Ancho Ventana Maximizada
+1770
+Altura Ventana Maximizada
+1080
+Minimizado por inactividad en segundos
+60
+Attract loop delay
+60
+Ventana maximizada al inicio (si / no)
+no

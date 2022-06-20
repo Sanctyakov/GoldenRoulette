@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roulette 3D", "Assembly-CSharp.csproj", "{BB96A045-CD63-2CE9-9C6F-6F33AECF60F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roulette 3D", "Assembly-CSharp-firstpass.csproj", "{ADE4A000-73A8-9AF2-E5EC-8E6C41BD7952}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roulette 3D", "Assembly-CSharp-Editor.csproj", "{3A96DD83-03C6-3E90-8DF6-0B7AA6E5E8B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB96A045-CD63-2CE9-9C6F-6F33AECF60F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB96A045-CD63-2CE9-9C6F-6F33AECF60F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB96A045-CD63-2CE9-9C6F-6F33AECF60F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB96A045-CD63-2CE9-9C6F-6F33AECF60F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADE4A000-73A8-9AF2-E5EC-8E6C41BD7952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADE4A000-73A8-9AF2-E5EC-8E6C41BD7952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADE4A000-73A8-9AF2-E5EC-8E6C41BD7952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADE4A000-73A8-9AF2-E5EC-8E6C41BD7952}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A96DD83-03C6-3E90-8DF6-0B7AA6E5E8B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A96DD83-03C6-3E90-8DF6-0B7AA6E5E8B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A96DD83-03C6-3E90-8DF6-0B7AA6E5E8B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A96DD83-03C6-3E90-8DF6-0B7AA6E5E8B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

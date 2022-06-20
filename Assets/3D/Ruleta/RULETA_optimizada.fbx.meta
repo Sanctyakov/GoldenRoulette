@@ -1,0 +1,126 @@
+fileFormatVersion: 2
+guid: 043dbe53194f8cb40974997100a8d69e
+timeCreated: 1464493332
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bolita
+    100002: Bolita_anima
+    100004: Bolita_origin_position
+    100006: polySurface2
+    100008: polySurface3
+    100010: polySurface4
+    100012: ruleta_fija
+    100014: RULETA_giratoria_base
+    100016: RULETA_giratoria_numeros
+    100018: RULETA_giratoria_peon
+    100020: RULETA_OPTIMIZADA
+    100022: //RootNode
+    100024: RULETA_separadores_37
+    100026: RULETA_separadores_38
+    100028: transform1
+    400000: Bolita
+    400002: Bolita_anima
+    400004: Bolita_origin_position
+    400006: polySurface2
+    400008: polySurface3
+    400010: polySurface4
+    400012: ruleta_fija
+    400014: RULETA_giratoria_base
+    400016: RULETA_giratoria_numeros
+    400018: RULETA_giratoria_peon
+    400020: RULETA_OPTIMIZADA
+    400022: //RootNode
+    400024: RULETA_separadores_37
+    400026: RULETA_separadores_38
+    400028: transform1
+    2300000: Bolita
+    2300002: polySurface2
+    2300004: polySurface3
+    2300006: polySurface4
+    2300008: ruleta_fija
+    2300010: RULETA_giratoria_base
+    2300012: RULETA_giratoria_numeros
+    2300014: RULETA_separadores_37
+    2300016: RULETA_separadores_38
+    3300000: Bolita
+    3300002: polySurface2
+    3300004: polySurface3
+    3300006: polySurface4
+    3300008: ruleta_fija
+    3300010: RULETA_giratoria_base
+    3300012: RULETA_giratoria_numeros
+    3300014: RULETA_separadores_37
+    3300016: RULETA_separadores_38
+    4300000: Bolita
+    4300002: ruleta_fija
+    4300004: RULETA_giratoria_base
+    4300006: RULETA_giratoria_numeros
+    4300008: polySurface2
+    4300010: polySurface3
+    4300012: polySurface4
+    4300014: RULETA_separadores_38
+    4300016: RULETA_separadores_37
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

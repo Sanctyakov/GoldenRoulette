@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Golden Roulette", "Assembly-CSharp.csproj", "{B52FC717-1866-8CA2-155B-032A9C25671E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Golden Roulette", "Assembly-CSharp-firstpass.csproj", "{70BD55CE-91D6-7B30-5E96-B62D10847376}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Golden Roulette", "Assembly-CSharp-Editor.csproj", "{35FF6403-1A54-1C38-BD17-704EE7B62A74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B52FC717-1866-8CA2-155B-032A9C25671E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B52FC717-1866-8CA2-155B-032A9C25671E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B52FC717-1866-8CA2-155B-032A9C25671E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B52FC717-1866-8CA2-155B-032A9C25671E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70BD55CE-91D6-7B30-5E96-B62D10847376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70BD55CE-91D6-7B30-5E96-B62D10847376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70BD55CE-91D6-7B30-5E96-B62D10847376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70BD55CE-91D6-7B30-5E96-B62D10847376}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35FF6403-1A54-1C38-BD17-704EE7B62A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35FF6403-1A54-1C38-BD17-704EE7B62A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35FF6403-1A54-1C38-BD17-704EE7B62A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35FF6403-1A54-1C38-BD17-704EE7B62A74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ruleta.Plugins", "Ruleta.Plugins.csproj", "{F7FB5AA0-0D94-99FE-0330-F077E80B1516}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ruleta", "Ruleta.csproj", "{0DB6C5DB-5440-53D1-45FA-4A4CE3F8E98F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ruleta.Editor", "Ruleta.Editor.csproj", "{3FBAF58B-3C3C-7694-2A7E-D51E46DEE990}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7FB5AA0-0D94-99FE-0330-F077E80B1516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7FB5AA0-0D94-99FE-0330-F077E80B1516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7FB5AA0-0D94-99FE-0330-F077E80B1516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7FB5AA0-0D94-99FE-0330-F077E80B1516}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DB6C5DB-5440-53D1-45FA-4A4CE3F8E98F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DB6C5DB-5440-53D1-45FA-4A4CE3F8E98F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DB6C5DB-5440-53D1-45FA-4A4CE3F8E98F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DB6C5DB-5440-53D1-45FA-4A4CE3F8E98F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FBAF58B-3C3C-7694-2A7E-D51E46DEE990}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FBAF58B-3C3C-7694-2A7E-D51E46DEE990}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FBAF58B-3C3C-7694-2A7E-D51E46DEE990}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FBAF58B-3C3C-7694-2A7E-D51E46DEE990}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
